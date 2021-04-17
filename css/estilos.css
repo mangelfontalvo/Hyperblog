@@ -36,8 +36,10 @@ body {
     width: 70%;
     padding: 20px;
     text-align: left;
+    align-content: center;
     border: 1px solid whitesmoke;
-    margin: 0;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #post {
@@ -49,8 +51,4 @@ body {
     background: #777;
     color: white;
     text-align: center;
-}
-
-#imagen p {
-    width: 100%;
 }

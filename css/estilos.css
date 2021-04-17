@@ -50,3 +50,7 @@ body {
     color: white;
     text-align: center;
 }
+
+#imagen p {
+    width: 100%;
+}
